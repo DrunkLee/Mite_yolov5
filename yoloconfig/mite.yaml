@@ -1,0 +1,13 @@
+path: /data/ephemeral/home/aihub/out
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: 유충_정상
+  1: 유충_응애
+  2: 유충_석고병
+  3: 유충_부저병
+  4: 성충_정상
+  5: 성충_응애
+  6: 성충_날개불구바이러스감염증

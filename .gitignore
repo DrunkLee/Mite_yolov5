@@ -1,0 +1,16 @@
+# Ignore all __pycache__ folders
+**/__pycache__/
+__pycache__/
+**/yolov5/
+**/yolov5_env/
+**/JSON2YOLO/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.csv
+*.png
+
+# Ignore specific directories
+checkpoints/
+**/inference_results/
