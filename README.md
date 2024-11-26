@@ -30,3 +30,10 @@ pip install -r requirements.txt
       ├── val/*.txt
       └── test/*.txt
 ```
+## YOLOv5 Inference
+### GT
+![alt text](GT.jpg)
+### Pred
+![alt text](Pred.jpg)
+### Class mAP
+![alt text](classwise.png)
