@@ -30,7 +30,7 @@ pip install -r requirements.txt
       ├── val/*.txt
       └── test/*.txt
 ```
-## YOLOv5 Inference
+## YOLOv5s Inference
 ### GT
 ![alt text](GT.jpg)
 ### Pred
